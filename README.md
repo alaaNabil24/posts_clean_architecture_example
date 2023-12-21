@@ -2,13 +2,13 @@
 
 # :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
+
 
 
 ## :star2: About the Project
 This Flutter app incorporates clean architecture principles, GetIt for dependency injection, Dartz for handle null values and errors in a more concise and expressive way using features like Either and Option, and Retrofit for efficient network communication. Enjoy a well-structured codebase, simplified dependency management, expressive error handling, and seamless API integration in this compact app.
-### :camera: Screenshots
-<div align="center"> <a href=""><img src="https://miro.medium.com/v2/resize:fit:1000/1*jLvd1gpY4vDTr4eK5nyYHg.png" alt='image' width='800'/></a> </div>
+### :camera: 
+<div align="center"> <a href=""><img src="https://miro.medium.com/v2/resize:fit:1000/1*jLvd1gpY4vDTr4eK5nyYHg.png" alt='image' width='500'/></a> </div>
 
 
 
