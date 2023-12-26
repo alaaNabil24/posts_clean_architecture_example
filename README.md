@@ -12,7 +12,7 @@ This Flutter app incorporates clean architecture principles, GetIt for dependenc
 
 
 
-### :dart: Features
+### :dart: Packages
 - clean architecture
 - getIt
 - dartz
